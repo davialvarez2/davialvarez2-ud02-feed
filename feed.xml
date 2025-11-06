@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+
     <title>Novedades del sitio web de la UD02 – davialvarez</title>
-    <link>https://davialvarez.w3spaces.com/</link>
+    <link>https://davialvarez2.github.io/davialvarez2-ud02-feed/</link>
+    <atom:link href="https://davialvarez2.github.io/davialvarez2-ud02-feed/feed.xml"
+               rel="self" type="application/rss+xml" />
+
     <description>Últimas actualizaciones publicadas en mi web del módulo de Lenguajes de Marcas</description>
     <language>es-es</language>
     <lastBuildDate>Thu, 06 Feb 2025 12:00:00 +0100</lastBuildDate>
@@ -23,5 +27,8 @@
       <description>Se ha añadido la segunda página de novedades a mi sitio web.</description>
       <pubDate>Thu, 06 Feb 2025 12:10:00 +0100</pubDate>
     </item>
+
   </channel>
 </rss>
+
+
